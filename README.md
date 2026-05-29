@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech Student | Aspiring Data Analyst | PYTHON </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Future+Data+Analyst;Web+Developer;Open+Source+Contributor;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Open+Source+Contributor;Always+Learning+New+Things&center=true&width=500&height=50">
 </p>
 
 ---
