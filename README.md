@@ -37,6 +37,12 @@
 
 ---
 
+## 🔥 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RamavathLavanya6&theme=react-dark"/>
+</p>
+---
 ## 📈 GitHub Stats
 
 <p align="center">
