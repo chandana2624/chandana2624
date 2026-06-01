@@ -80,6 +80,11 @@
 </p>
 
 ---
+## ✨ Career Objective
+
+Computer Science undergraduate passionate about Machine Learning, Data Analytics, and Open Source. Actively contributing to community-driven projects, building innovative solutions, and continuously expanding my technical expertise through real-world development experience
+
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
